@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "weatherforecast": "apps/weatherforecast",
+    "weatherforecast-e2e": "apps/weatherforecast-e2e"
+  }
+}
